@@ -1,7 +1,5 @@
 /// A pure Dart implementation of Punycode (RFC 3492) with support for
 /// mixed-case annotation and errata.
-library;
-
 import 'dart:convert';
 
 import 'src/punycode_decoder.dart';
